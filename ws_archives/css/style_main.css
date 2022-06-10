@@ -1,0 +1,32 @@
+@font-face {
+    font-family: VT323;
+    src: url(../fonts/VT323-Regular.ttf);
+}
+body{
+    margin: 5%;
+    font-family: VT323;
+}
+#welcome{
+    text-align: left;
+    font-size: 30px;
+    color: rgb(20, 20, 20);
+}
+.about{
+    font-family: VT323;
+    text-align: left;
+    font-size: 25px;
+}
+.topics{
+    padding: 1%;
+    margin-top: 1%;
+}
+marquee{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+footer{
+    text-align: center;
+    font-size: large;
+    margin-top: 2%;
+}
